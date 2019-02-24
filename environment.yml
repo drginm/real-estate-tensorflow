@@ -1,0 +1,9 @@
+name: real-estate-tf
+dependencies:
+  - numpy
+  - pandas
+  - scikit-learn
+  - tensorflowjs
+  - tensorflow-gpu
+  - matplotlib
+  - spyder
